@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;ch8.FactoruakMain&apos; to &apos;FactorialMain&apos;&#x0D;&#x0A;- Original project: &apos;JAVA&apos;&#x0D;&#x0A;- Original element: &apos;ch8.FactoruakMain&apos;&#x0D;&#x0A;- Renamed element: &apos;ch8.FactorialMain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FactoruakMain&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ch8{FactoruakMain.java[FactoruakMain" matchStrategy="1" name="FactorialMain" qualified="false" references="true" similarDeclarations="false" stamp="1714530163684" textual="false" version="1.0"/>
-</session>
